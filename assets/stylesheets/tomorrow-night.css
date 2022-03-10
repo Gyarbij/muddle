@@ -24,7 +24,7 @@ pre .comment {
 }
 
 pre .variable.global, pre .variable.class, pre .variable.instance {
-    color: #cc6666; /* red */
+    color: #668fcc; /* red */
 }
 
 pre .constant.numeric, pre .constant.language, pre .constant.hex-color, pre .keyword.unit {
