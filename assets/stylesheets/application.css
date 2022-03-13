@@ -1,3 +1,16 @@
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
+
 body {
   background-color: #282a2e;
   color: #c5c8c6;
